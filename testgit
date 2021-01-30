@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "Le nom de scripte est : "$0
 echo "Le premier argument est :  "$1
@@ -9,3 +10,9 @@ echo "Le premier argument contien :"${#2}  "caracteres"
 
 #commit 2
 #commit 3
+=======
+test de la brache2
+commit2
+ceci est le chagement fait
+commit github 
+les changemet sur github
