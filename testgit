@@ -8,3 +8,4 @@ echo "Le premier argument contien :"${#1}   "caracteres"
 echo "Le premier argument contien :"${#2}  "caracteres"
 
 #commit 2
+#commit 3
